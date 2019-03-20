@@ -520,4 +520,4 @@ The licenses in the npm-registry from their package.json, from the latest versio
     value: 1 },
   { key: 'Available under MIT and BSD licenses. See [https://github.com/ryanvanoss/node-yui3skins/blob/master/LICENSE].',
     value: 1 },
-  { key: 'Dojo', value: 1 } ]
+{ key: 'Dojo', value: 1 } ]
