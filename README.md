@@ -6,7 +6,7 @@ Pour versionner l'ensemble des codes à utiliser, pour spécifier un type de lic
 
 Il existe un standard, dont le vocabulaire définit le terme _SPDX short identifier_, et je pense (à vérifier), qu' `npm` respecte ce standard.
 
-La liste des codes en vigueur pour ce standard a un point de référecne de publication : 
+La liste des codes en vigueur pour ce standard a un point de référence de publication : 
 
 https://spdx.org/licenses/
 
