@@ -1,7 +1,7 @@
 The licenses in the npm-registry from their package.json, from the latest version of each module
 
 23.11.2013
-
+```javascript
 [ { key: 'undefined', value: 27785 },
   { key: 'MIT', value: 20811 },
   { key: 'BSD', value: 5240 },
@@ -521,3 +521,4 @@ The licenses in the npm-registry from their package.json, from the latest versio
   { key: 'Available under MIT and BSD licenses. See [https://github.com/ryanvanoss/node-yui3skins/blob/master/LICENSE].',
     value: 1 },
 { key: 'Dojo', value: 1 } ]
+```
